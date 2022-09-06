@@ -2,7 +2,6 @@
 
 declare(strict_types=1);
 
-// ZADANIE - utwórz pulpit logowania z podpiętą bazą danych
 
 // PDO 
 
